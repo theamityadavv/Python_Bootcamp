@@ -1,5 +1,5 @@
 # import random
-# list=["amit","sumit","Hello"]
+#list=["amit","sumit","Hello"]
 # print(len(list))
 # print(random.choice(list))
 # fruit=["banana","apple"]
@@ -8,7 +8,7 @@
 
 # print(dirty_dozens[1][1])
 
-print("hello")
-numchar=len("hello")
-print(numchar)
+# print("hello")
+# numchar=len("hello")
+# print(numchar)
 
